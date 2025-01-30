@@ -3,7 +3,7 @@
   "displayName": "Peek Type",
   "description": "This extension helps in viewing complete type structure of a typescipt type or interface by hovering on the associated variable",
   "version": "1.0.0",
-  "publisher": "Kiran Mantha",
+  "publisher": "KiranMantha",
   "engines": {
     "vscode": "^1.96.0"
   },
