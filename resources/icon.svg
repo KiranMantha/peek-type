@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M64 14L22 36.5V91.5L64 114L106 91.5V36.5L64 14Z" fill="#3178C6" />
+    <!-- downward-facing arrow -->
+    <path d="M54 40L64 50L74 40" stroke="#FFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M64 50V30" stroke="#FFF" stroke-width="6" stroke-linecap="round" />
+    <!-- chevrons -->
+    <path d="M44 54L64 66L84 54M44 72L64 84L84 72M44 90L64 102L84 90" stroke="#FFF" stroke-width="6"
+        stroke-linecap="round" />
+</svg>
