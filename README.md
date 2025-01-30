@@ -7,21 +7,13 @@ A VSCode extension that reveals complete type structures for TypeScript types th
 
 Example:
 ---
-```typescript
-type ComplexType = {
-  id: number;
-  details: {
-    name: string;
-    metadata: Array<{
-      key: string;
-      value: unknown;
-    }>;
-  };
-};
+**Before installing extension**:
 
-const example: ComplexType;
-// ^ Hover here
-```
+![before-peek-type.gif](https://github.com/KiranMantha/peek-type/blob/main/demo/before-peek-type.gif)
+
+**After installing extension**:
+
+![after-peek-type.gif](https://github.com/KiranMantha/peek-type/blob/main/demo/after-peek-type.gif)
 
 ## Features ✨
 
