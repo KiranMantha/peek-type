@@ -16,6 +16,15 @@
   ],
   "main": "./dist/extension.js",
   "icon": "resources/icon.png",
+  "author": "KiranMantha",
+  "bugs": {
+    "url": "https://github.com/KiranMantha/peek-type/issues"
+  },
+  "homepage": "https://github.com/KiranMantha/peek-type#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranMantha/peek-type.git"
+  },
   "contributes": {
     "configuration": {
       "title": "Type Structure Explorer",
